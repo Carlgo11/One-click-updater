@@ -21,7 +21,7 @@ Run the script by executing `./update_spigot.sh` in the terminal.
 ####I want to update bungeecord only:
 Then use __update_bungeecord.sh__.<br>
 You don't need to change anything.<br>Just put the file in your bungeecord directory.<br>
-Run the script by executing `./update_bungee.sh` in the terminal.
+Run the script by executing `./update_bungeecord.sh` in the terminal.
 
 ####I want to update both spigot and bungeecord:
 Then use __update_everything.sh__.<br>
